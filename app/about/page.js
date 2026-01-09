@@ -12,7 +12,7 @@ export default function AboutPage() {
     const isStatsInView = useInView(statsRef, { once: true });
 
     const stats = [
-        { label: "Whatsapp", value: "1200+", color: "#FF7A00" },
+        { label: "Whatsapp COMMUNITY", value: "1200+", color: "#FF7A00" },
         { label: "Instagram Reach", value: "100+", color: "#FF7A00" },
         { label: "Discord Members", value: "100+", color: "#FF7A00" }
     ];
