@@ -1,0 +1,38 @@
+[
+    {
+        "id": "evt_2025_web2_01",
+        "title": "Workshop on GitHub",
+        "date": "Sept 21, 2024",
+        "location": "Seminar Hall, CSIT",
+        "attendees": 50,
+        "category": "Workshop",
+        "image": "/Github_Workshop.jpeg"
+    },
+    {
+        "id": "evt_2025_web2_02",
+        "title": "Seminar with IBM Team",
+        "date": "sept 24, 2024",
+        "location": "Online",
+        "attendees": 30,
+        "category": "Talk show",
+        "image": "/IBM.jpeg"
+    },
+    {
+        "id": "evt_2025_web2_03",
+        "title": "Programming Logic And Career Pathways",
+        "date": "Oct 11, 2025",
+        "location": "Seminar Hall, CSIT",
+        "attendees": 80,
+        "category": "Workshop",
+        "image": "/programmingLogicWorkshop.jpeg"
+    },
+    {
+        "id": "evt_2025_web2_04",
+        "title": "Upcoming Event",
+        "date": "N/A",
+        "location": "N/A",
+        "attendees": 0,
+        "category": "N/A",
+        "image": "/UpcomingEvent.jpeg"
+    }
+]

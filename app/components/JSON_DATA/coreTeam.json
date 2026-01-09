@@ -1,0 +1,87 @@
+[
+  {
+    "id": "core_member_001",
+    "name": "Lakshay Gupta",
+    "position": "VICE PRESIDENT",
+    "image": "/Vice_President.jpeg"
+
+  },
+  {
+    "id": "core_member_002",
+    "name": "Kush Sahu",
+    "position": "PRESIDENT",
+    "image": "/Kush_Sahu.jpeg"
+  },
+  {
+    "id": "core_member_003",
+    "name": "Trisha Jain",
+    "position": "MEDIA TEAM HEAD",
+    "image": "/Trisha_Jain.jpeg"
+  },
+  {
+    "id":"core_member_004",
+    "name":"Ayushi Rana",
+    "position":"Graphic Designer",
+    "image":"/Ayushi_Rana.jpeg"
+  },
+  {
+    "id":"core_member_004",
+    "name":"Pratibha Manral",
+    "position":"Graphic Designer",
+    "image":"/Pratibha_Manral.jpeg"
+  },
+  {
+    "id":"core_member_005",
+    "name":"Ayush Rawat",
+    "position":"Development Head",
+    "image":"/WhatsApp Image 2026-01-09 at 11.51.28 PM.jpeg"
+  },
+  {
+    "id":"core_member_006",
+    "name":"Prerna Sajwan",
+    "position":"Marketing Head",
+    "image":"/Prerna_Sajwan.jpeg"
+  },
+  {
+    "id":"core_member_007",
+    "name":"Rohit Singh Negi",
+    "position":"Organising Committee Head",
+    "image":"/OC_Rohit.jpeg"
+  },
+  {
+    "id":"core_member_008",
+    "name":"Kanchan Rana",
+    "position":"Organising Committee Head",
+    "image":"/Kanchan_Rana.jpeg"
+  },
+  {
+    "id":"core_member_009",
+    "name":"Rudraksh Bhatia",
+    "position":"Data Team Head",
+    "image":"/DataTeamRudraksh.jpeg"
+  },
+  {
+    "id":"core_member_010",
+    "name":"Daiwik Mishra",
+    "position":"Data Team Head",
+    "image":"/data_team_Daiwik.jpeg"
+  },
+  {
+    "id":"core_member_011",
+    "name":"Mahesh Mehta",
+    "position":"Data Team Head",
+    "image":"/Data_team_mahesh.jpeg"
+  },
+  {
+    "id":"core_member_012",
+    "name":"Shreya Mittal",
+    "position":"Event Head",
+    "image":"/Shreya.jpeg"
+  },
+  {
+    "id":"core_member_013",
+    "name":"Yash Awasthi",
+    "position":"Social Media Head",
+    "image":"/Yash_Awasthi.jpeg"
+  }
+]
