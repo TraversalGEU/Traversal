@@ -77,7 +77,7 @@ export default function AboutPage() {
                         >
 
                             <div className="aspect-video bg-gray-900 flex items-center justify-center">
-                                <video className="w-full h-full object-cover" src='/293788_large.mp4' autoPlay
+                                <video className="w-full h-full object-cover" src='/Trav.mp4' autoPlay
                                     loop
                                     muted
                                     playsInline />
