@@ -17,7 +17,7 @@ export default function Section5() {
         </div>
 
         {/* Faculty Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6">
           {facultyData.map((faculty) => (
             <div
               data-aos="fade-up" data-aos-duration="2200"
