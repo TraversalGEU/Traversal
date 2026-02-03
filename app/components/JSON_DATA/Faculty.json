@@ -10,17 +10,5 @@
     "name": "Prof. Ayushi Rana",
     "designation": "FACULTY ADVISOR",
     "department": "Computer Science Department"
-  },
-  {
-    "id": "faculty_003",
-    "name": "Prof. Gunjan Mehra",
-    "designation": "FACULTY ADVISOR",
-    "department": "Computer Science Department"
-  },
-  {
-    "id": "faculty_004",
-    "name": "Prof. Priyansh Kumar",
-    "designation": "FACULTY ADVISOR",
-    "department": "Computer Science Department"
   }
 ]
