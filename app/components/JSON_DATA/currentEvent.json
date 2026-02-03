@@ -3,7 +3,7 @@
     "id":"evt_2025_web2_04",
     "title": "Workshop on Generative AI",
     "description": "The Workshop on Generative AI introduced students to the fundamentals and real-world applications of modern AI technologies. With at least 96 participants, the session provided hands-on exposure through live demonstrations, including chatbot development using industry tools.",
-    "image": "/Github_Workshop.jpeg",
+    "image": "/GenAi_Workshop.jpeg",
     "category": "Workshop"
   },
   {
@@ -13,4 +13,5 @@
     "image": "/programmingLogicWorkshop.jpeg",
     "category": "Workshop"
   }
+
 ]
