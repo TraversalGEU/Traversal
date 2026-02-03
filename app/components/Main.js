@@ -15,9 +15,9 @@ export default function Main() {
       <Border/>
       <Section3/>
       <Border/>
-      <Section4/>
-      <Border/>
       <Section5/>
+      <Border/>
+      <Section4/>
     </div>
   )
 }
