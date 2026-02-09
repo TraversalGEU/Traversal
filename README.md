@@ -51,3 +51,25 @@ I designed and developed several key pages to provide a comprehensive experience
 ├── jsconfig.json     # Absolute path configurations
 ├── next.config.mjs   # Performance and build optimizations
 └── package.json      # Dependency management and scripts
+
+🔧 Installation & Local Development
+To run this project locally:
+
+1. Clone the repo:
+
+git clone [https://github.com/TraversalGEU/Traversal.git](https://github.com/TraversalGEU/Traversal.git)
+
+2. Install dependencies:
+
+npm install
+
+3. Run development server:
+
+npm run dev
+
+👤 Solo Developer: Ayush Rawat
+I am responsible for the end-to-end Architecture, Frontend Development, and UI/UX Design of this project.
+Portfolio: Ayush Rawat Portfolio
+LinkedIn: Ayush Rawat
+GitHub: @Ayushrf121
+
