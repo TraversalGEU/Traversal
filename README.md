@@ -45,6 +45,7 @@ I designed and developed several key pages to provide a comprehensive experience
 ---
 
 ## 📂 Architecture
+```
 
 I structured this project using the **Next.js App Router** for optimal performance and maintainability.
 
@@ -59,6 +60,8 @@ I structured this project using the **Next.js App Router** for optimal performan
 ├── package-lock.json     # Locked dependency versions
 ├── package.json          # Dependency management and scripts
 └── postcss.config.mjs    # CSS processing configuration
+
+```
 
 ---
 
