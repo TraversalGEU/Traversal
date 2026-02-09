@@ -42,31 +42,45 @@ I designed and developed several key pages to provide a comprehensive experience
 | **PostCSS** | Modern CSS processing for a clean, professional finish. |
 
 ---
-
-## 📂 Architecture
-```bash
-├── app/              # Main application logic (Pages, Layouts, Components)
-├── public/           # Static assets (Logos, Icons, Images)
-├── eslint.config.mjs # Linting rules for code cleanliness
-├── jsconfig.json     # Absolute path configurations
-├── next.config.mjs   # Performance and build optimizations
-└── package.json      # Dependency management and scripts
-
-## 🔧 Installation & Local Development
-To run this project locally, follow these steps:
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/TraversalGEU/Traversal.git](https://github.com/TraversalGEU/Traversal.git)
-```
 ---
 
-## 👤 Solo Developer: Ayush Rawat
+## 📂 Architecture
 
-I am responsible for the end-to-end **Architecture**, **Frontend Development**, and **UI/UX Design** of this project.
+I structured this project using the **Next.js App Router** for optimal performance and maintainability.
+
+```bash
+├── app/                  # Main application logic (Pages, Layouts, Components)
+├── public/               # Static assets (Logos, Icons, Images)
+├── .gitignore            # Git exclusion rules
+├── README.md             # Project documentation
+├── eslint.config.mjs     # Linting rules for code cleanliness
+├── jsconfig.json         # Absolute path configurations
+├── next.config.mjs       # Performance and build optimizations
+├── package-lock.json     # Locked dependency versions
+├── package.json          # Dependency management and scripts
+└── postcss.config.mjs    # CSS processing configuration
+
+---
+
+## 👥 Credits & Development
+
+This project is a result of a collaborative vision, brought to life through dedicated engineering and design.
+
+* 💻 **Website Creator & Lead Developer:** [Ayush Rawat](https://github.com/Ayushrf121)
+  * Responsible for the entire technical architecture, frontend engineering, animation logic, and deployment.
+* 🎨 **UI/UX Design:** Kush Sahu
+  * Responsible for the visual language, wireframing, and user interface design.
+
+---
+
+## 👤 About the Developer: Ayush Rawat
+
+I handled the end-to-end development of this project, translating complex designs into a high-performance web experience.
 
 * 🌐 **Portfolio:** [Ayush Rawat Portfolio](https://portfolio-chi-eight-5dltnxj7ew.vercel.app/)
 * 💼 **LinkedIn:** [Ayush Rawat](https://www.linkedin.com/in/ayush-rawat-745854326?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * 💻 **GitHub:** [@Ayushrf121](https://github.com/Ayushrf121)
 
 ---
+
+
