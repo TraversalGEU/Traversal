@@ -1,9 +1,5 @@
 # Traversal - Official Club Website
 
-<p align="center">
-  <img src="https://images.google.com/search?q=traversal+club+banner" alt="Traversal Banner" width="100%">
-</p>
-
 A premium, high-performance web application built to serve as the digital headquarters for the **Traversal Club**. This platform centralizes event management, member showcases, and student resources into a single, cohesive user experience.
 
 > **Explore the Live Site:** [www.traversalhub.in](https://www.traversalhub.in/) 🚀
