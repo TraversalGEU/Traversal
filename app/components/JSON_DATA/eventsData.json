@@ -33,7 +33,7 @@
         "location": "Seminar Hall, CSIT",
         "attendees": 96,
         "category": "Workshop",
-        "image": "/programmingLogicWorkshop.jpeg"
+        "image": "/GenAi_Workshop.jpeg"
     },
     {
         "id": "evt_2025_web2_05",
@@ -44,4 +44,5 @@
         "category": "N/A",
         "image": "/UpcomingEvent.jpeg"
     }
+
 ]
