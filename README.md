@@ -1,6 +1,4 @@
 
-<h1 align="center">🚀 Your Project Name</h1>
-
 <p align="center">
   <img src="public/poster.png" alt="Project Banner" width="100%" />
 </p>
