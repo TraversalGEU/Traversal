@@ -1,3 +1,11 @@
+
+<h1 align="center">🚀 Your Project Name</h1>
+
+<p align="center">
+  <img src="public/poster.png" alt="Project Banner" width="100%" />
+</p>
+
+
 # Traversal - Official Club Website
 
 A premium, high-performance web application built to serve as the digital headquarters for the **Traversal Club**. This platform centralizes event management, member showcases, and student resources into a single, cohesive user experience.
