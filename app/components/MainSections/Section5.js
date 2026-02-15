@@ -17,25 +17,52 @@ export default function Section5() {
         </div>
 
         {/* Faculty Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6">
-          {facultyData.map((faculty) => (
-            <div
-              data-aos="fade-up" data-aos-duration="2200"
-              key={faculty.id}
-              className="bg-gradient-to-b from-gray-900 to-black border-l-4 border-[#FF7A00] p-6 rounded-lg hover:shadow-lg hover:shadow-[#FF7A00]/20 transition-all duration-300 group"
-            >
-              <h3 className="text-lg font-bold mb-2 group-hover:text-[#FF7A00] transition-colors">
-                {faculty.name}
-              </h3>
-              <p className="text-[#FF7A00] text-sm font-semibold uppercase tracking-wide mb-1">
-                {faculty.designation}
-              </p>
-              <p className="text-gray-400 text-xs">
-                {faculty.department}
-              </p>
-            </div>
-          ))}
-        </div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-10">
+  {facultyData.map((faculty) => (
+    
+    <div
+      key={faculty.id}
+      data-aos="fade-up"
+      data-aos-duration="2200"
+      className="bg-gradient-to-r from-gray-900 to-black 
+      border border-gray-800 hover:border-[#FF7A00]
+      rounded-xl p-5
+      flex flex-col lg:flex-row items-center 
+      lg:items-start gap-6
+      transition-all duration-300 group"
+    >
+
+      {/* Image */}
+      <div className="flex-shrink-0">
+        <img
+          src={faculty.image}
+          alt={faculty.name}
+          className="h-[220px] w-[170px] object-cover 
+          rounded-lg border border-gray-700
+          scale-110 transition-transform duration-500"
+        />
+      </div>
+
+      {/* Details */}
+      <div className="text-center lg:text-left">
+        <h3 className="text-4xl font-bold group-hover:text-[#FF7A00]">
+          {faculty.name}
+        </h3>
+
+        <p className="text-[#FF7A00] text-2xl font-semibold uppercase mt-2">
+          {faculty.designation}
+        </p>
+
+        <p className="text-gray-400 text-[15px] mt-1">
+          {faculty.department}
+        </p>
+      </div>
+
+    </div>
+
+  ))}
+</div>
+
       </div>
     </section>
   );
