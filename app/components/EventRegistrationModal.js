@@ -4,7 +4,7 @@ import { X, User, Mail, Phone, BookOpen, ChevronDown, CheckCircle, Loader2, Aler
 import axios from "axios";
 
 // ── Change this to your live backend URL when deployed ──
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
+const API_BASE = "https://traversal-z2ts.onrender.com" || "http://localhost:4000";
 
 export default function EventRegistrationModal({ isOpen, onClose }) {
   const [formData, setFormData] = useState({
