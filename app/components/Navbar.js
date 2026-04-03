@@ -11,7 +11,7 @@ import axios from 'axios';
 // ── Your backend URL ──
 // Locally: http://localhost:4000
 // On Render: https://your-backend-name.onrender.com
-const API_BASE = "https://traversal-z2ts.onrender.com" || "http://localhost:4000";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen]           = useState(false);
