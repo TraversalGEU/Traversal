@@ -1,14 +1,14 @@
 [
   {
     "id": "faculty_001",
-    "name": "Prof. Mohd Shuaib",
+    "name": "Mr. Mohd Shuaib",
     "designation": "FACULTY ADVISOR",
     "department": "Computer Science Department",
     "image":"/Haider_Sir.jpeg"
   },
   {
     "id": "faculty_002",
-    "name": "Prof. Ayushi Rana",
+    "name": "MRs. Ayushi Rana",
     "designation": "FACULTY ADVISOR",
     "department": "Computer Science Department",
     "image":"/Ayushi_Mam.jpeg"
