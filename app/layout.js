@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Home | Traversal",
   description: "This is a Home page of the official Traversal.",
+  verification: {
+    google: "PffNtUIJs6cp_zgdsM1e6oNIaXWfPW5J2KKEMd-bBYs",
+  },
 };
 
 export default function RootLayout({ children }) {
