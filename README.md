@@ -84,7 +84,6 @@ I handled the end-to-end development of this project, translating complex design
 * 🌐 **Portfolio:** [Ayush Rawat Portfolio](https://portfolio-chi-eight-5dltnxj7ew.vercel.app/)
 * 💼 **LinkedIn:** [Ayush Rawat](https://www.linkedin.com/in/ayush-rawat-745854326?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * 💻 **GitHub:** [@Ayushrf121](https://github.com/Ayushrf121)
-
 ---
 
 
