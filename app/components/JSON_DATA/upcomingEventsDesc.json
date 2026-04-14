@@ -26,5 +26,12 @@
         "date": "Jan 31, 2026",
         "location": "Seminar Hall, CSIT",
         "description": "The Workshop on Generative AI was organized to introduce students to the rapidly evolving field of artificial intelligence and its real-world applications. Conducted on 31st January 2026, the workshop witnessed the active participation of at least 96 students from B.Tech, BCA, and MCA programs, creating an engaging and interactive learning environment. The session was led by an experienced industry professional Mr. Ashish Misra, Head of Research and Development at Excain LLP, who explained the core concepts of Generative AI along with its practical implementation using industry-relevant tools such as Google Colab, Vertex AI, IntelliJ IDE, and Google Cloud. A hands-on demonstration involving the development of a chatbot using a ChatGPT API helped participants understand real-time AI integration. The workshop also covered productivity tools like GitHub Copilot and discussed emerging career opportunities in the AI domain. Overall, the event successfully enhanced students’ technical understanding, practical exposure, and awareness of career pathways in Generative AI."
+    },
+    {
+        "id": "evt_2025_web2_05",
+        "title": "Workshop on CEH Skills",
+        "date": "Apr 11, 2026",
+        "location": "Seminar Hall, CSIT",
+        "description": "The Workshop on Certified Ethical Hacker (CEH) Skills, organized by Traversal in collaboration with the ISTE Student Chapter on 11th April 2026, was a highly informative and engaging session that witnessed the participation of more than 140 students. Conducted by Mr. Faby Mathew, a certified AWS and Cyber Security Trainer, the workshop introduced participants to key concepts of ethical hacking, cybersecurity, system vulnerabilities, and cyber threats. Through real-world examples and practical demonstrations, students gained valuable insights into hacking methodologies, vulnerability assessment, and defensive security practices. The session also highlighted career opportunities in cybersecurity and emphasized the importance of continuous learning and certifications. Overall, the workshop successfully enhanced students technical knowledge, practical understanding, and interest in the cybersecurity domain."
     }
 ]

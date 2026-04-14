@@ -37,6 +37,15 @@
     },
     {
         "id": "evt_2025_web2_05",
+        "title": "Workshop on CEH Skills",
+        "date": "Apr 11, 2026",
+        "location": "Seminar Hall, CSIT",
+        "attendees": 150,
+        "category": "Workshop",
+        "image": "/CEH.jpeg"
+    },
+    {
+        "id": "evt_2025_web2_06",
         "title": "Upcoming Event",
         "date": "N/A",
         "location": "N/A",

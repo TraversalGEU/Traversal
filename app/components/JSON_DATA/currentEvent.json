@@ -1,16 +1,16 @@
 [
   {
+    "id": "evt_2025_web2_05",
+    "title": "Workshop on CEH Skills",
+    "description": "An interactive session focused on strengthening the key concepts of ethical hacking, cybersecurity, system vulnerabilities, and cyber threats.Through real-world examples and practical demonstrations, participants learned about vulnerability assessment, and defensive security practices. ",
+    "image": "/CEH.jpeg",
+    "category": "Workshop"
+  },
+  {
     "id":"evt_2025_web2_04",
     "title": "Workshop on Generative AI",
     "description": "The Workshop on Generative AI introduced students to the fundamentals and real-world applications of modern AI technologies. With at least 96 participants, the session provided hands-on exposure through live demonstrations, including chatbot development using industry tools.",
     "image": "/GenAi_Workshop.jpeg",
-    "category": "Workshop"
-  },
-  {
-    "id": "evt_2025_web2_03",
-    "title": "Programming logic And Career Pathways",
-    "description": "An interactive session focused on strengthening programming logic, problem-solving skills, and exploring real-world career pathways in the tech industry.",
-    "image": "/programmingLogicWorkshop.jpeg",
     "category": "Workshop"
   }
 
