@@ -59,8 +59,7 @@ I structured this project using the **Next.js App Router** for optimal performan
 ├── jsconfig.json         # Absolute path configurations
 ├── next.config.mjs       # Performance and build optimizations
 ├── package-lock.json     # Locked dependency versions
-├── package.json          # Dependency management and scripts
-└── postcss.config.mjs    # CSS processing configuration
+├── package.json     
 
 ```
 
