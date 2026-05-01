@@ -3,7 +3,6 @@ import { useState, useEffect } from "react";
 import { X, User, Mail, Phone, BookOpen, ChevronDown, CheckCircle, Loader2, AlertCircle } from "lucide-react";
 import axios from "axios";
 
-// ── Change this to your live backend URL when deployed ──
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
 
 export default function EventRegistrationModal({ isOpen, onClose }) {

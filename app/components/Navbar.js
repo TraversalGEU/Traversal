@@ -8,21 +8,19 @@ import 'aos/dist/aos.css';
 import EventRegistrationModal from './EventRegistrationModal';
 import axios from 'axios';
 
-// ── Your backend URL ──
-// Locally: http://localhost:4000
 // On Render: https://your-backend-name.onrender.com
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen]           = useState(false);
   const [isModalOpen, setIsModalOpen]         = useState(false);
-  const [registrationOpen, setRegistrationOpen] = useState(false); // controlled by backend
+  const [registrationOpen, setRegistrationOpen] = useState(false); 
 
   useEffect(() => {
     AOS.init();
   }, []);
 
-  // ── Step 1: Check if registration is open ──
+  // Check if registration is open ──
   // Calls /api/status on every page load.
   // If registrationOpen is true → show button + auto popup.
   // If false → button hidden, no popup, clean navbar.
@@ -33,7 +31,7 @@ export default function Navbar() {
         const isOpen = res.data.registrationOpen;
         setRegistrationOpen(isOpen);
 
-        // ── Step 2: Auto popup — only if registration is open ──
+        //  Auto popup — only if registration is open ──
         // Uses sessionStorage so popup shows once per browser session.
         // Next time they open a new tab or new session, it shows again.
         if (isOpen) {
