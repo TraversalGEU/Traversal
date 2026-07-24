@@ -102,18 +102,6 @@ export default function Footer() {
       {/* Copyright */}
       <div className="max-w-7xl mx-auto mt-6 text-center text-sm text-gray-500">
   © {new Date().getFullYear()} TRAVERSAL. All rights reserved.
-  
-  <p className="text-[12px] text-gray-500 mt-1 opacity-70">
-    Technical Development: 
-    <a 
-      href="https://www.linkedin.com/in/YOUR-LINKEDIN" 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="hover:text-white transition ml-1"
-    >
-      Ayush Rawat
-    </a>
-  </p>
 </div>
     </footer>
   );
