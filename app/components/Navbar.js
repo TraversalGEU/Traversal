@@ -12,9 +12,9 @@ import axios from 'axios';
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
 
 export default function Navbar() {
-  const [isMenuOpen, setIsMenuOpen]           = useState(false);
-  const [isModalOpen, setIsModalOpen]         = useState(false);
-  const [registrationOpen, setRegistrationOpen] = useState(false); 
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [registrationOpen, setRegistrationOpen] = useState(false);
 
   useEffect(() => {
     AOS.init();
